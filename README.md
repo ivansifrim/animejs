@@ -1,0 +1,1 @@
+This project demonstrates how to animate an SVG. It uses anime.js . You can follow along here by reading this tutorial: https://medium.com/@ivansifrim/animate-svgs-using-anime-js-adda46f2ec9c
